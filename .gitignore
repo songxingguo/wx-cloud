@@ -1,0 +1,16 @@
+worker/
+.cargo-ok
+package-lock.json
+.DS_Store
+Thumbs.db
+db.json
+package-lock.json
+*.log
+node_modules/
+public/
+.deploy*/
+
+source/works/
+.idea
+
+dist/

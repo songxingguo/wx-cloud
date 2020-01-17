@@ -1,0 +1,4 @@
+name = "wx"
+type = "webpack"
+account_id = "628d55630193b5c69d42972a257329aa"
+workers_dev = true
